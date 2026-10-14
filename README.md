@@ -3,4 +3,5 @@ College project that was assigned to our group. This might help other people to 
 
 ## Cloning the repo
 ```bash
-git clone https://github.com/night-exe/Deep-Learning-IBM-Project```
+git clone https://github.com/night-exe/Deep-Learning-IBM-Project
+```
